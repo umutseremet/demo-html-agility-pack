@@ -12,7 +12,7 @@ namespace DemoHtmlAgilityPack
         static void Main(string[] args)
         {
             /*
-             *  Adding attributes to html <a> tag
+             *  Adding target attribute to html <a> tag
              */
             HtmlTag_AddAttribute();
         }
